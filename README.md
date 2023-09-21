@@ -8,7 +8,7 @@
 NELLM(낼름)은 중고거래에서 판매자 대신 가격을 협상에 1대 n으로 대응하는 챗봇 어플리케이션입니다.
 
 # Demo & Example
-~~<h3 align="center"><a href=http://nellm.site> http://nellm.site </a></h3>~~
+<h3 align="center"><a href=http://nellm.site> http://nellm.site (blocked)</a></h3>
 
 <img width="935" alt="image" src="imgs/demo.png">
 
